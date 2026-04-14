@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Telco Customer Churn Analysis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Report
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    smooth-scroll: true
+    anchor-sections: true
