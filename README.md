@@ -1,5 +1,9 @@
 # Telco Customer Churn Analysis
 
+## Live Report
+
+The full Quarto report are available at:`https://daiqwer.github.io/telco-customer-churn-analysis/`
+
 ## Executive Summary
 
 The analysis shows that churn is **not randomly distributed** across the customer base. It is concentrated in a set of high-risk conditions tied to **low commitment**, **early lifecycle**, and **value sensitivity**.
