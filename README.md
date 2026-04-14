@@ -2,12 +2,6 @@
 
 A portfolio-grade data analysis project focused on identifying the structural and behavioral drivers of customer churn in a telecom subscription business.
 
-## Live Report
-
-After enabling GitHub Pages, the full Quarto report will be available at:
-
-`https://<your-github-username>.github.io/telco-customer-churn-analysis/`
-
 ## Executive Summary
 
 The analysis shows that churn is **not randomly distributed** across the customer base. It is concentrated in a set of high-risk conditions tied to **low commitment**, **early lifecycle**, and **value sensitivity**.
