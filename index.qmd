@@ -1,6 +1,5 @@
 ---
 title: "Telco Customer Churn Analysis"
-subtitle: "A Portfolio-Grade Data Analysis Case Study"
 format:
   html:
     toc: true
